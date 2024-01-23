@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Cristian-Mattace and I'm a computer engineer graduated at University of Parma.
 - 🌱 I am currently attending a master's degree in computer engineering at the University of Modena and Reggio Emilia.
+- 👨🏻‍🏫 Since September 2023 I have also been a teacher of "Sistemi e Reti" at the ITIS Galileo Galilei in San Secondo p.se.
 
 ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristian.mattace) 
