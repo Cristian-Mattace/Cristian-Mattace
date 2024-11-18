@@ -1,6 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Cristian-Mattace and I'm a computer engineer graduated at University of Parma.
-- 🌱 I am currently attending a master's degree in computer engineering at the University of Modena and Reggio Emilia.
+- 👋 Hi, I’m @Cristian-Mattace.
+- 🌱 M.Sc in Computer Engineering with a specialization in "_cloud & cybersecurity_" at University of Modena and Reggio Emilia.
+- 👨🏻‍💻 Software developer for Alpha GR.
 
 ## 🌐 Socials:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristian.mattace) 
